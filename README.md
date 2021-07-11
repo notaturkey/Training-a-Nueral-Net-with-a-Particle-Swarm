@@ -150,6 +150,7 @@ you can see the lower range number of hidden nodes around 20 has the best accura
 
 #### Changing Bias Range
 |Bias Range | Avg. Accuracy|
+|---|---|
 |1 | 49.52380952380953|
 |5 | 53.809523809523796|
 |10 | 60.0 |
